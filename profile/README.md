@@ -1,4 +1,4 @@
-## Capstone Design (2) SmartUp
+# Capstone Design (2) SmartUp
 
 
 <!--
