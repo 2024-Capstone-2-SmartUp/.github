@@ -1,6 +1,7 @@
 # Capstone Design(2) SmartUp
 
 ### 스마트업 주간 다이어리: (https://github.com/2024-Capstone-2-SmartUp/Meeting)
+#### 스마트업 발표 PPT (https://github.com/2024-Capstone-2-SmartUp/PPT)
 
 
 <!--
